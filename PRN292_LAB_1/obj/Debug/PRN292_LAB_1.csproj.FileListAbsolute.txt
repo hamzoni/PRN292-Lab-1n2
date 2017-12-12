@@ -1,0 +1,26 @@
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.exe.config
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.exe
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.pdb
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormAddOrder.resources
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormListOrder.resources
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormListProduct.resources
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormOrderDetails.resources
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.Properties.Resources.resources
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csproj.GenerateResource.Cache
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.exe
+C:\Users\World\AppData\Local\Temporary Projects\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.pdb
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.exe.config
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.exe
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\bin\Debug\PRN292_LAB_1.pdb
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csprojResolveAssemblyReference.cache
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormAddOrder.resources
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormListOrder.resources
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormListProduct.resources
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.FormOrderDetails.resources
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.Properties.Resources.resources
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csproj.GenerateResource.Cache
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.csproj.CoreCompileInputs.cache
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.exe
+C:\Users\World\source\repos\PRN292_LAB_1\PRN292_LAB_1\obj\Debug\PRN292_LAB_1.pdb
